@@ -1,5 +1,5 @@
 # A Deep Reinforcement Learning Agent for Angry Birds
-This project contains the code for two reinforcement learning agents for the game Angry Birds. 
+This project contains the code for two reinforcement learning agents for the game Angry Birds. The first is a Deep Deterministic Policy Gradients (DDPG) algorithm, inspired by [Enhancing Deep Reinforcement Learning Agent for Angry Birds](https://aibirds.org/2017/aibirds_BNU.pdf) (Yuan et al., 2017). The second is a Deep Q-Network, developed for comparison with the DDPG.
 ## Installation Instructions
 The Angry Birds agent runs on the Chrome version of Angry Birds. The online version of Angry Birds Chrome has been discontinued, so to run the agent an offline version must be installed. 
 1. Download [Chromium v67](https://www.chromium.org/getting-involved/download-chromium)
